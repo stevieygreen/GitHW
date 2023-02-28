@@ -1,0 +1,22 @@
+h3 {
+    color: green;
+}
+
+h1 {
+    color: white;
+}
+div.steve {
+    background-image: url("wp4325777.jpg");
+}
+
+div#bodycontent {
+    font-size:140% ;
+    font-family: "Arial Black";
+    text-transform: capitalize;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    font-family: "Brush Script MT";
+}
